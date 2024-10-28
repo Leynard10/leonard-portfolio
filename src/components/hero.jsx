@@ -3,7 +3,7 @@ import React from 'react';
 const Hero = () => {
   return (
     <section className = "heroBox" id="hero">
-        <img src="dev.png" alt="Angelo Saniega Ponce" style={{ width: '370px', height: '340px' }} />
+        <img src="dev.png" alt="Ley" style={{ width: '370px', height: '340px' }} />
             <div className="textHero">
               <h1>Hello, I'm Leonard Duero</h1>
                 <p>
